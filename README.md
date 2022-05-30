@@ -4,8 +4,7 @@
 
 ### **2.Control Flow Graph**
 
-
-![lab222](https://user-images.githubusercontent.com/97626963/171020949-9d2c24ed-bb05-42ea-b152-317894c86ae9.png)
+![konecen](https://user-images.githubusercontent.com/97626963/171031881-878eb071-1878-448e-8737-4b87fd2209f8.png)
 
 
 ### 3.Цикломатска Комплексност
@@ -14,7 +13,7 @@
 
 ### 4. Тест случаево според критериумот Еvery statment  ###
 
-![Untitled](https://user-images.githubusercontent.com/97626963/171028416-8e52b2c1-1d32-4cdb-8ddc-a7dfb9e3a064.png)
+![Untitled](https://user-images.githubusercontent.com/97626963/171032314-c6e95f0c-a5f8-4a77-92eb-1cc223920e04.png)
 
 
 ### 5. Тест случаи според критериумот Every path
