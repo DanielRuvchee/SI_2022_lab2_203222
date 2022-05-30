@@ -4,7 +4,9 @@
 
 ### **2.Control Flow Graph**
 
-![konecen](https://user-images.githubusercontent.com/97626963/171031881-878eb071-1878-448e-8737-4b87fd2209f8.png)
+
+![konecen](https://user-images.githubusercontent.com/97626963/171032905-1a1185bf-9927-44db-bc03-631b76104115.png)
+
 
 
 ### 3.Цикломатска Комплексност
